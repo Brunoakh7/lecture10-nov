@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .wrapper {
+    row-gap: 10px;
+    flex-direction: column;
+  }
+
+  .card {
+    width: 100%;
+  }
+}
